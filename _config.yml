@@ -4,8 +4,8 @@ page_title                                :                                     
 # App Info
 ios_app_id                                : 1554471846                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
-appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            :                                           # Enter Google Play Store URL.
+appstore_link                             :                                            # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+playstore_link                            : https://play.google.com/store/apps/details?id=by.levankou.kino # Enter Google Play Store URL.
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
@@ -17,7 +17,7 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Aliaksei Kernazhytski
+your_name                                 : 
 your_link                                 : https://apps.apple.com/app/id1554471846
 your_city                                 :
 email_address                             : itsart.developer@gmail.com
